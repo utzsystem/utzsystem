@@ -8,7 +8,7 @@ Es una empresa Quetzalteca dedicada al desarrollo de software, con un grupo de p
 <a href="https://www.instagram.com/utzsystem/" target="_blank" rel="nofollow"><img align="right" alt="Pratik's instagram" width="50px" src="https://cdn.pixabay.com/photo/2016/09/17/07/03/instagram-1675670_960_720.png" /></a>
 </div>
 
-- 🌱 Actualmente estoy estamos en busca de de personas apacionadas por la tecnologia
+- 🌱 Actualmente estamos en busca de de personas apacionadas por la tecnologia
 - 🤔 Buscamos ayuda en lo que tu eres bueno
 - 💬 Pregúnta sobre cualquier cosa, estariamos felices de poder ayudarte
 - 🌐 Visite nuestro sitio Web [utzsystem](https://utzsystem.com/) para obtener mas información
